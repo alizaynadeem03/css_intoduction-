@@ -1,0 +1,18 @@
+body{background-color:rgb(160, 160, 196);
+font-family: "Times New Roman", Times, serif;
+text-transform: capitalize;
+text-indent: 20px;
+letter-spacing: 1px;
+line-height: 1.5;
+word-spacing: 5px;}
+a:link{color:powderblue;}
+a:visited{color:green;} 
+a:hover{color:hotpink;text-decoration: underline;}
+a:active{color:blue;text-decoration: underline;} 
+hr{
+border-style:none;
+border-top-style:dotted;
+border-color:grey;
+border-width:5px;
+width:5%;}
+h1{color:#1F4690;}
